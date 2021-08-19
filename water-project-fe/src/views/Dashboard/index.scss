@@ -1,0 +1,26 @@
+
+.container{
+    h1{
+        text-align: center;
+        font-weight: bold;
+    }
+    h2{
+        text-align: center;
+    }
+    .list{
+        display: flex;
+
+        .item{
+          flex:1;
+          text-align: center;
+            .title{
+                color: #666;
+            }
+            .count{
+                font-weight: 700;
+                color: black;
+                font-size: 24px;
+            }
+        }
+    }
+}
