@@ -1,0 +1,36 @@
+{
+  "name": "book-mgr-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/cors": "^3.1.0",
+    "@koa/multer": "^3.0.0",
+    "@koa/router": "^10.0.0",
+    "axios": "^0.21.1",
+    "element-plus": "^1.0.2-beta.70",
+    "excel-export-3": "^0.5.3",
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.13.1",
+    "koa-body": "^4.2.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-easywechat": "^0.1.5",
+    "koa-jwt": "^4.0.1",
+    "koa-static": "^5.0.0",
+    "mongoose": "^5.13.2",
+    "multer": "^1.4.2",
+    "node-xlsx": "^0.17.1",
+    "sha1": "^1.1.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "babel-plugin-import": "^1.13.3",
+    "nodemon": "^2.0.12"
+  }
+}

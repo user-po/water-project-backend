@@ -1,0 +1,9 @@
+{
+	"wechat" : {
+		"appID": "wxe53f9dcbd1582367",
+		"appSecret": "c370efe6f0df4f5a2644c165761b7d38",
+		"token": "water",
+		"prefix": "http://fy8mvk.natappfree.cc",
+		"mpPrefix": "http://fy8mvk.natappfree.cc"
+	}
+}
